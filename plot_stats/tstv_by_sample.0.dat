@@ -1,0 +1,4 @@
+# [1]Sample ID	[2]ts/tv	[3]het/hom	[4]nSNPs	[5]nIndels	[6]Average depth	[7]nSingletons	[8]Sample name
+0	1.491803	0.000000	152	9	0.700000	160	S1
+1	1.672727	0.000000	147	20	0.700000	167	S2
+2	1.471429	0.061350	173	7	0.800000	179	S3

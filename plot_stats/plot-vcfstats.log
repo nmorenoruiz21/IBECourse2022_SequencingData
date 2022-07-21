@@ -1,0 +1,106 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./summary.tex
+LaTeX2e <2018-04-01> patch level 2
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/memoir/memoir.cls
+Document Class: memoir 2018/04/04 v3.7g configurable book, report, article docu
+ment class
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/ifetex/ifetex.sty
+(/usr/local/texlive/2018/texmf-dist/tex/plain/ifetex/ifetex.tex))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifluatex.sty)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/memoir/mem17.clo))
+
+******************************************************
+Stock height and width: 540.60236pt by 722.69981pt
+Top and edge trims: 0pt and 0pt
+Page height and width: 540.60236pt by 722.69981pt
+Text height and width: 455.24411pt by 665pt
+Spine and edge margins: 28.45274pt and 28.45274pt
+Upper and lower margins: 42.67912pt and 42.67912pt
+Headheight and headsep: 2.84526pt and 2.84526pt
+Footskip: 28.45274pt
+Columnsep and columnseprule: 10pt and 0pt
+Marginparsep and marginparwidth: 2.84526pt and 2.84526pt
+Sidecapsep and sidecapwidth: 11.09485pt and 47pt
+Sidebarhsep and sidebarwidth: 11.09485pt and 47pt
+Sidebarvsep and sidebartopsep: 22pt and 0pt
+Sidebarheight: 543.39993pt
+Sidefoothsep and sidefootwidth: 11.09485pt and 47pt
+Sidefootvsep and sidefootheight: 22pt and 543.39993pt
+******************************************************
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/charter.sty)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def)))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/multirow/multirow.sty)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/colortbl/colortbl.sty))
+No file summary.aux.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/ot1bch.fd)
+(/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/infwarerr.sty)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ltxcmds.sty)))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/etexcmds.sty)))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+
+Class memoir Warning: The material used in the headers is too large
+(22.0pt) for the given head height (2.84526pt), it is recommended to
+either increase the head height or redesign the header
+(in both cases you will find help in the memoir manual). on input line 102.
+
+
+Overfull \vbox (19.15474pt too high) has occurred while \output is active
+[1{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \vbox (19.15474pt too high) has occurred while \output is active
+[2 <./tstv_by_sample.0.png>]
+Overfull \vbox (19.15474pt too high) has occurred while \output is active
+[3 <./hets_by_sample.0.png>]
+Overfull \vbox (19.15474pt too high) has occurred while \output is active
+[4 <./singletons_by_sample.0.png>]
+Overfull \vbox (19.15474pt too high) has occurred while \output is active
+[5 <./dp_by_sample.0.png>]
+Overfull \vbox (19.15474pt too high) has occurred while \output is active
+[6 <./snps_by_sample.0.png>]
+Overfull \vbox (19.15474pt too high) has occurred while \output is active
+[7 <./indels_by_sample.0.png>]
+Overfull \vbox (19.15474pt too high) has occurred while \output is active
+[8 <./tstv_by_qual.0.png>]
+Overfull \vbox (19.15474pt too high) has occurred while \output is active
+[9 <./indels.0.png>]
+Overfull \vbox (19.15474pt too high) has occurred while \output is active
+[10 <./depth.0.png>]
+Overfull \vbox (19.15474pt too high) has occurred while \output is active
+[11 <./hwe.0.png>]
+Overfull \vbox (19.15474pt too high) has occurred while \output is active
+[12 <./substitutions.0.png>]
+
+Class memoir Warning: The material used in the headers is too large
+(22.0pt) for the given head height (2.84526pt), it is recommended to
+either increase the head height or redesign the header
+(in both cases you will find help in the memoir manual). on input line 149.
+
+(./summary.aux) )
+(see the transcript file for additional information){/usr/local/texlive/2018/te
+xmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2018/texmf-dist/fonts/
+type1/bitstrea/charter/bchr8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmtt12.pfb>
+Output written on summary.pdf (12 pages, 180724 bytes).
+Transcript written on summary.log.
