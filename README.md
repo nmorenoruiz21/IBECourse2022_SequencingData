@@ -2,7 +2,7 @@
 Hands on session on how to generate and deal with sequencing data in bioinformatic analyses.
 
 # VCF files and bcftools
-*Materials created by Jose Serradell and [Nerea Moreno](https://github.com/nmorenoruiz21).*
+*Materials created by [Nerea Moreno](https://github.com/nmorenoruiz21).*
 
 In this practical we will be analysing human sequencing data in the form of a multisample VCF, for this you will have to install bcftools in your command line and download the sample file and its index (https://github.com/nmorenoruiz21/IBECourse2022_SequencingData). 
 
